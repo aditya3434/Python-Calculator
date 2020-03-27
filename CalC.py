@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'untitled.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.0
-#
-# WARNING! All changes made in this file will be lost!
-
+# CalC is a simple python calculator consisting of basic arithmetic operations like addition, subtraction,
+# multiplication, division and the unary operator. More scientific operators like the exponential and trignometric functions
+# are yet to be added. The GUI was created with the help of PyQt5 Designer tool.
+# 
+# Date Created : 19th December 2019
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
